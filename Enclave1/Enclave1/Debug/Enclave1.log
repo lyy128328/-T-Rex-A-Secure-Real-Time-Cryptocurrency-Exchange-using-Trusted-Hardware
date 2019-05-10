@@ -1,0 +1,19 @@
+﻿  Creating proxy/bridge routines
+  Enclave1.cpp
+  Enclave1_t.c
+     Creating library C:\Users\eddyl\Documents\Visual Studio 2015\Projects\App\Debug\Enclave1.lib and object C:\Users\eddyl\Documents\Visual Studio 2015\Projects\App\Debug\Enclave1.exp
+  Enclave1.vcxproj -> C:\Users\eddyl\Documents\Visual Studio 2015\Projects\App\Debug\Enclave1.dll
+  Enclave1.vcxproj -> C:\Users\eddyl\Documents\Visual Studio 2015\Projects\App\Debug\Enclave1.pdb (Full PDB)
+  The required memory is 0x230000.
+  Succeed.
+  <EnclaveConfiguration>
+      <ProdID>0</ProdID>
+      <ISVSVN>0</ISVSVN>
+      <StackMaxSize>0x40000</StackMaxSize>
+      <HeapMaxSize>0x100000</HeapMaxSize>
+      <TCSNum>1</TCSNum>
+      <TCSPolicy>1</TCSPolicy>
+      <DisableDebug>0</DisableDebug>
+      <MiscSelect>0</MiscSelect>
+      <MiscMask>0xFFFFFFFF</MiscMask>
+  </EnclaveConfiguration>
